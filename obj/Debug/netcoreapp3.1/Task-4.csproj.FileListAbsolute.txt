@@ -1,0 +1,13 @@
+C:\Users\agiknight\source\repos\Task-4\Task-4\bin\Debug\netcoreapp3.1\Task-4.exe
+C:\Users\agiknight\source\repos\Task-4\Task-4\bin\Debug\netcoreapp3.1\Task-4.deps.json
+C:\Users\agiknight\source\repos\Task-4\Task-4\bin\Debug\netcoreapp3.1\Task-4.runtimeconfig.json
+C:\Users\agiknight\source\repos\Task-4\Task-4\bin\Debug\netcoreapp3.1\Task-4.runtimeconfig.dev.json
+C:\Users\agiknight\source\repos\Task-4\Task-4\bin\Debug\netcoreapp3.1\Task-4.dll
+C:\Users\agiknight\source\repos\Task-4\Task-4\bin\Debug\netcoreapp3.1\Task-4.pdb
+C:\Users\agiknight\source\repos\Task-4\Task-4\obj\Debug\netcoreapp3.1\Task-4.csprojAssemblyReference.cache
+C:\Users\agiknight\source\repos\Task-4\Task-4\obj\Debug\netcoreapp3.1\Task-4.AssemblyInfoInputs.cache
+C:\Users\agiknight\source\repos\Task-4\Task-4\obj\Debug\netcoreapp3.1\Task-4.AssemblyInfo.cs
+C:\Users\agiknight\source\repos\Task-4\Task-4\obj\Debug\netcoreapp3.1\Task-4.csproj.CoreCompileInputs.cache
+C:\Users\agiknight\source\repos\Task-4\Task-4\obj\Debug\netcoreapp3.1\Task-4.dll
+C:\Users\agiknight\source\repos\Task-4\Task-4\obj\Debug\netcoreapp3.1\Task-4.pdb
+C:\Users\agiknight\source\repos\Task-4\Task-4\obj\Debug\netcoreapp3.1\Task-4.genruntimeconfig.cache
